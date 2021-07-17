@@ -1,0 +1,3 @@
+hello test start git init
+
+yes ok
