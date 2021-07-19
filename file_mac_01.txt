@@ -2,8 +2,12 @@ hello test start git init
 
 add line2 test fetch #2
 
+<<<<<<< HEAD
 add 3 test revert git
 
 add 4 test revert git
+=======
+add line3 test data3
+>>>>>>> parent of efda455 (Revert "yeamgood commit by macbook")
 
 yes ok
